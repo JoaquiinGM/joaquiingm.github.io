@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+    <!-- Codificacion de caracteres (tildes) -->
+    <meta charset="UTF-8">
+
+    <!-- ViewPort Responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, 
+    maximum-scale=1.0, user-scalable=no">
+    
+    <!-- Titulo de la Web -->
+    <title>Proyecto PWA</title>
+
+    <!-- Icono de la web -->
+    <link rel="shortcut icon" href="./img/favicon.png" type="image/x-icon">
+    
+    <!-- Color de la aplicacion -->
+    <meta name="theme-color" content="#00bfff" >
+
+    <!-- Optimizacion para movil -->
+    <meta name="MobileOptimized" content="width" >
+
+    <meta name="HandheldFrendly" content="true" >
+
+
+    <!-- Meta etiquetas PWA para Apple -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="img/favicon.png">
+    <link rel="apple-touch-startup-image" href="img/favicon.png">
+
+    <!-- Manifest (Configuracion Gral de PWA) -->
+    <link rel="manifest" href="manifest.json">
+
+    <!-- Hoja de estilos -->
+    <link rel="stylesheet" href="./css/styles.css">
+    
+    <!-- JQuery -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
+    <!-- Script -->
+    <script src="main.js"></script>
+
+</head>
+<body>
+    <header id="main-header">
+        <div class="container">
+            <div id="logo">
+                <h1>Archisoft</h1>
+            </div>
+            <div id="menu">
+                <ul>
+                    <li>
+                        <a href="#main-header">Inicio</a>
+                    </li>
+
+                    <li>
+                        <a href="#services">Servicios</a>
+                    </li>
+
+                    <li>
+                        <a href="#videos">Video</a>
+                    </li>
+
+                    <li>
+                        <a href="#footer">Contacto</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div class="clearfix"></div>
+
+    <div id="slider">
+        <div class="container">
+            <h2>Expertos en soluciones informaticas</h2>
+        </div>
+    </div>
+
+    <div id="services" >
+        <div class="container">
+        <h2 class="subheader">Servicios</h2>
+        <div class="service">
+            <img src="img/1.png">
+            <h3>Desarrollo web</h3>
+            <p>Ofrezco servicios de Desarrollo web moderno</p>
+        </div>
+
+        <div class="service">
+            <img src="img/2.png">
+            <h3>Diseño web</h3>
+            <p>Ofrezco servicios de Diseño web moderno, limpio y atractivo</p>
+        </div>
+
+        <div class="service">
+            <img src="img/3.png">
+            <h3>Mentoria</h3>
+            <p>Ofrezco servicios de Mentoria web moderno</p>
+        </div>
+    </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    <div id="videos">
+        <div class="container">
+            <h2 class="subheader">Videos</h2>
+            <div class="video">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/KdS2PJlW4VE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <p>Presentacion de ARCHISOFT</p>
+            </div>
+
+            <div class="video">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/sB-NxeaaNa4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <p>Presentacion2 de ARCHISOFT</p>
+            </div>
+
+            <div class="video">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/McmcW74Zll8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <p>Testimonio de Marcelo</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+
+    <footer id="footer">
+        <div class="container">
+            <h2 class="subheader">Contacto</h2>
+            <p>Enviame un mensaje en cualquiera de estas redes sociales :)</p>
+
+            <ul id="networks">
+                <li>
+                    <a href="#">
+                        <img src="./img/twitter.png" alt="">
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="./img/facebook.png" alt="">
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#">
+                        <img src="./img/instagram.png" alt="">
+                    </a>
+                </li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+    </footer>
+</body>
+</html>
