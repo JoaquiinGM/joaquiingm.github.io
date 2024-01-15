@@ -37,8 +37,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce15
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
 #EXTINF:-1 tvg-id="PTVGranada.es" tvg-logo="https://i.imgur.com/eOcAakM.png" group-title="General",PTV Granada (720p)
 https://streamer.zapitv.com/PTV-granada/index.m3u8
+#EXTINF:-1 tvg-id="PTVMalaga.es" group-title="General",PTV Malaga (720p)
 https://streamer.zapitv.com/PTV-malaga/index.m3u8
-#EXTINF:-1 tvg-id="PTVSevilla.es" tvg-logo="https://i.imgur.com/EcinFGu.png" group-title="General",PTV Sevilla (1080p)
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Peliculas",Rakuten Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Peliculas",Rakuten Comedy Movies
