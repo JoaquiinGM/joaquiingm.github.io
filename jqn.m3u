@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General",La 1 (720p)
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentary",La 2 (1080p)
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/fJhkyZP.png" group-title="Noticias",Canal Sur Andalucía (1080p) [Not 24/7]
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="13 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Trece
@@ -99,6 +99,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/181332
 #EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | COL 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/181350 
 #EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | MX HD 
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155473 
 #EXTINF:-1 tvg-id="espn.co" tvg-name="D| Espn | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | COL HD 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/181347 
@@ -107,4 +108,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/155472
 #EXTINF:-1 tvg-id="espn3.co" tvg-name="D| Espn 3 | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | COL HD 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/202088 
 #EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn EXTRA 
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General",La 1 (opcion 2)
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/181370 
+#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentary",La 2 (opcion 2)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
