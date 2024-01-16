@@ -107,8 +107,4 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/181347
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155472 
 #EXTINF:-1 tvg-id="espn3.co" tvg-name="D| Espn 3 | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | COL HD 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/202088 
-#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn EXTRA 
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General",La 1 (opcion 2)
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/181370 
-#EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentary",La 2 (opcion 2)
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+ 
