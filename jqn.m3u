@@ -5,6 +5,8 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/fJhkyZP.png" group-title="Noticias",Canal Sur Andalucía (1080p) [Not 24/7]
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="https://xn--vivaespaa-s6a.tv/user/live-tv/ch201-andalucia-cocina/11" tvg-logo="https://i.imgur.com/fJhkyZP.png" group-title="Noticias",Canal Sur Andalucía (1080p) [Not 24/7]
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 group-title="Nacional" tvg-id="13 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",Canal 24 Horas (720p)
