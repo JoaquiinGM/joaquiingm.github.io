@@ -17,7 +17,9 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/fJhkyZP.png" group-title="Noticias;Andalucia",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AndaluciaCocina" tvg-logo="https://i.imgur.com/fJhkyZP.png" group-title="Cocina;Andalucia",Andalucía Cocina
+#EXTINF:-1 tvg-id="Turismo" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/08/canal-andalucia-turismo-vector-logo.png" group-title="Noticias;Andalucia",Andalucia Turismo
+https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
+#EXTINF:-1 tvg-id="AndaluciaCocina" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Andalucia-Cocina-en-directo-Online-en-vivo.png?fit=1920%2C1080&ssl=1" group-title="Cocina;Andalucia",Andalucía Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 tvg-id="CocinaFamiliar" tvg-logo="https://cocina-familiar.com/wp-content/uploads/2022/09/logo_cocina_familiar_crema.png" group-title="Cocina",Cocina Familiar
 https://cloud.fastchannel.es/mic/manifiest/hls/cocinafamiliar/cocinafamiliar.m3u8
@@ -27,8 +29,6 @@ https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 https://cdnlive.codev8.net/rtvalive/smil:channel23.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CondaVision.es" tvg-logo="https://graph.facebook.com/condavision/picture?width=200&height=200" group-title="Noticias;Andalucia",CondaVision
 https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
-#EXTINF:-1 tvg-id="Turismo" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/08/canal-andalucia-turismo-vector-logo.png" group-title="Noticias;Andalucia",Andalucia Turismo
-https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 #EXTINF:-1 tvg-id="PTVGranada.es" tvg-logo="https://i.imgur.com/eOcAakM.png" group-title="Noticias;Andalucia",PTV Granada (720p)
 https://streamer.zapitv.com/PTV-granada/index.m3u8
 #EXTINF:-1 tvg-id="PTVMalaga.es" tvg-logo="https://i.imgur.com/4eZYIX1.png" group-title="Noticias;Andalucia",PTV Malaga (720p)
@@ -90,3 +90,4 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Noticias",TN Todo Noticias (1080p)
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
