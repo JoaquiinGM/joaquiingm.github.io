@@ -17,7 +17,7 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/fJhkyZP.png" group-title="Noticias;Andalucia",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Turismo" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/08/canal-andalucia-turismo-vector-logo.png" group-title="Noticias;Andalucia",Andalucia Turismo
+#EXTINF:-1 tvg-id="AndaluciaTurismo" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-Andalucia-Turismo-en-DIRECTO-Online-en-vivo.png" group-title="Noticias;Andalucia",Andalucia Turismo
 https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 #EXTINF:-1 tvg-id="AndaluciaCocina" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-Andalucia-Cocina-en-directo-Online-en-vivo.png?fit=1920%2C1080&ssl=1" group-title="Cocina;Andalucia",Andalucía Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
@@ -91,3 +91,4 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Noticias",TN Todo Noticias (1080p)
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
+ 
