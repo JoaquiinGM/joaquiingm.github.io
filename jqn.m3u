@@ -142,7 +142,7 @@ https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="ALL; Entretenimiento",DeporTV (1080p) [Not 24/7]
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="DiputadosTV.ar" tvg-logo="https://i.imgur.com/UscKOIc.png" group-title="ALL; Legislative",Diputados TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="DiputadosTV.ar" tvg-logo="https://i.imgur.com/UscKOIc.png" group-title="ALL; Noticias",Diputados TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="ALL; Entretenimiento",DirecTV Sports (480p) [Geo-blocked]
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
